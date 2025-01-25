@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "price": "$100",
+      "category": "Web Development",
+      "image": "tupi.png",
+      "title": "Introduction to HTML"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "price": "$100",
+      "category": "Programming",
+      "image":  "tupi.png",
+      "title": "Python for Beginners"
+    },
+    {
+      "id": 3,
+      "name": "Emily Johnson",
+      "price": "$100",
+      "category": "Mathematics",
+      "image":  "tupi.png",
+      "title": "Basic Algebra"
+    },
+    {
+      "id": 4,
+      "name": "Michael Brown",
+      "price": "$100",
+      "category": "Marketing",
+      "image":  "tupi.png",
+      "title": "Digital Marketing Fundamentals"
+    },
+    {
+      "id": 5,
+      "name": "Sophia Wilson",
+      "price": "$100",
+      "category": "Design",
+      "image": "tupi.png",
+      "title": "Graphic Design Basics"
+    }
+  ]
+  
